@@ -1,37 +1,7 @@
 # ccsfsph-docs
 
-[Chinese](##Chinese)
+## install Tutorial
 
-[English](##English)
+[English](./tutorial/en/README.md)
 
-
-
-## Chinese
-
-
-
-test231223
-
-haha
-
-![image-20221207150632216](./pictures/README/image-20221207150632216.png)
-
-> any
->
-> fff
->
-> fasd
-
-
-
-assdsa
-
-
-
-## English
-
-
-
-
-
-[en]
+[简体中文 / Simplified Chinese](./tutorial/zh_cn/README.md)
